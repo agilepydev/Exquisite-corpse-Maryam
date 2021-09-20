@@ -5,3 +5,6 @@
 *Hydrogen
 *Nitrogen
 *That's right!
+
+These main elements can form molecules taht are fundamental for life
+in the planet.
